@@ -17,14 +17,12 @@ Skills: CSS, Javascript, HTML, python, php, bash, C#, VUEJS, REACT and Angular
 
 <a href='https://stars.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/starbadge.gif' width='35' height='35'></a> 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=@INovomiast-IESFuengirola1)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=INovomiast-IESFuengirola1)](https://github.com/anuraghazra/github-readme-stats)
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=@INovomiast-IESFuengirola1&show_icons=true&count_private=true)  
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=INovomiast-IESFuengirola1&show_icons=true&count_private=true)    
 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=@INovomiast-IESFuengirola1)  
+![GitHub metrics](https://metrics.lecoq.io/INovomiast-IESFuengirola1)  
 
-![GitHub metrics](https://metrics.lecoq.io/@INovomiast-IESFuengirola1)  
+![GitHub streak stats](https://streak-stats.demolab.com/?user=INovomiast-IESFuengirola1)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=@INovomiast-IESFuengirola1)  
-
-![Profile views](https://gpvc.arturio.dev/@INovomiast-IESFuengirola1)  
+![Profile views](https://gpvc.arturio.dev/INovomiast-IESFuengirola1)  
