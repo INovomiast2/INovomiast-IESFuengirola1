@@ -1,7 +1,5 @@
 ![](https://ik.imagekit.io/pxjkpi3mt/github-header-image.png?updatedAt=1681094237495)
 
-I made this project just for fun, it allows you to create nice and simple GitHub Readme files that you can copy/paste and use in your profile.
-
 Skills: CSS, Javascript, HTML, python, php, bash, C#, VUEJS, REACT and Angular
 
 - 🔭 I’m currently working on @SakuJS 
